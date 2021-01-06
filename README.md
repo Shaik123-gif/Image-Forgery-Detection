@@ -30,7 +30,7 @@ As we discussed earlier, Now the compression rates differ in the image. When we 
  
 Block Diagram/Work Flow Diagram
 
-![](Images/Block_Diagram.png)
+![](Images/Block_Diagram.jpg)
  
 Steps:
 (1)	Install all the required software (Numpy, Pillow, OpenCV, OS)
@@ -40,11 +40,13 @@ Steps:
 (5)	Save the Trained data into “Training.yml” file.
 (6)	Upload an image to check whether it is a fake or real image.
 (7)	Algorithm runs Level 1 Testing (Metadata Analysis).
-(8)	After Level 1 the Algorithm takes care of Level 2 Testing (ELA and Histogram Method) with reference to “Training.yml”.
-(9)	GitHub Link Is 
-(10)	Video Link is 
+(8)	After Level 1 the Algorithm takes care of Level 2 Testing (ELA and Histogram Method).
+
 Output Screenshots:
+
 Opening the Fake image
+
+![](Images/Open File.png)
  
 Level 1 Testing for Fake Image
  
