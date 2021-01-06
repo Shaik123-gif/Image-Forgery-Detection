@@ -20,9 +20,11 @@ A JPEG image should have a similar level of overall image. If a part of the imag
 Level 2 Testing starts of by doing ELA (Error Level Analysis) on the image and the result is given to LBPH (Local Binary Patterns Histograms) recognizer which decides whether it is fake or real image. 
 Even though LBPH algorithm is used for face recognition, it can be used in this project for generating histograms and comparing them.
 
- 
-In this above picture the christmas hat is added to the image.
+![](Images/Bird_Word.png)
+
+In the above picture the christmas hat is added to the image.
 As we discussed earlier, Now the compression rates differ in the image. When we do ELA we can easily find the manipulated part of the image.
+![](Images/)
  
 Block Diagram/Work Flow Diagram
 
