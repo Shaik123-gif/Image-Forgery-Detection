@@ -52,6 +52,7 @@ When we do ELA we can easily find the manipulated part of the image.
 
 (8)	After Level 1 the Algorithm takes care of Level 2 Testing (ELA and Histogram Method) with reference to the "Training.yml".
 
+
 <b>Output Screenshots:</b>
 
 <b>Opening the Fake image</b>
