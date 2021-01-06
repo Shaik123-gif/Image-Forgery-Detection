@@ -22,9 +22,11 @@ Even though LBPH algorithm is used for face recognition, it can be used in this 
 
 ![](Images/Bird_Word.png)
 
+![](Images/ELA_Bird_Word.png)
+
 In the above picture the christmas hat is added to the image.
 As we discussed earlier, Now the compression rates differ in the image. When we do ELA we can easily find the manipulated part of the image.
-![](Images/)
+
  
 Block Diagram/Work Flow Diagram
 
