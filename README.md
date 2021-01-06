@@ -30,6 +30,7 @@ As we discussed earlier, Now the compression rates differ in the image. When we 
  
 Block Diagram/Work Flow Diagram
 
+![](Images/Block_Diagram.png)
  
 Steps:
 (1)	Install all the required software (Numpy, Pillow, OpenCV, OS)
