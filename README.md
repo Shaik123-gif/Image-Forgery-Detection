@@ -25,7 +25,9 @@ Even though LBPH algorithm is used for face recognition, it can be used in this 
 ![](Images/ELA_Bird_Word.png)
 
 In the above picture the christmas hat is added to the image.
-As we discussed earlier, Now the compression rates differ in the image. When we do ELA we can easily find the manipulated part of the image.
+As we discussed earlier, Now the compression rates differ in the image.
+
+When we do ELA we can easily find the manipulated part of the image.
 
  
 Block Diagram/Work Flow Diagram
@@ -34,13 +36,20 @@ Block Diagram/Work Flow Diagram
  
 Steps:
 (1)	Install all the required software (Numpy, Pillow, OpenCV, OS)
+
 (2)	Convert all the images which are present in Data Set into Grayscale images.
+
 (3)	Convert Grayscale images to unsigned 8-bit integer and store in a NumPy. Array.
+
 (4)	Train the LBPH Face Recognizer with the images.
-(5)	Save the Trained data into “Training.yml” file.
+
+(5)	Save the Trained data into "Training.yml" file.
+
 (6)	Upload an image to check whether it is a fake or real image.
+
 (7)	Algorithm runs Level 1 Testing (Metadata Analysis).
-(8)	After Level 1 the Algorithm takes care of Level 2 Testing (ELA and Histogram Method).
+
+(8)	After Level 1 the Algorithm takes care of Level 2 Testing (ELA and Histogram Method) with reference to the "Training.yml".
 
 Output Screenshots:
 
