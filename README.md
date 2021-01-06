@@ -46,19 +46,29 @@ Output Screenshots:
 
 Opening the Fake image
 
-![](Images/Open File.png)
+![](Images/Open_File.png)
  
 Level 1 Testing for Fake Image
+
+![](Images/Fake_Level1.png)
  
 Level 2 Testing for Fake Image
+
+![](Images/Fake_Level2.png)
  
 Here the uploaded Image is Fake and the accuracy is nearly 88%
 
 Opening the Real Image
+
+![](Images/Open_File.png)
  
 Level 1 Testing for Real Image
+
+![](Images/Real_Level1.png)
  
 Level 2 Testing for Real Image
+
+![](Images/Real_Level2.png)
  
 Here the uploaded image is Real and the accuracy is 70%
 
