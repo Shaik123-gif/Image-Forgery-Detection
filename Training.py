@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-path = 'D:\\Images'
+path = 'D:\\Images' #The Location where the DataSet is Present
 
 
 def img(path):
