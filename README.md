@@ -30,11 +30,12 @@ As we discussed earlier, Now the compression rates differ in the image.
 When we do ELA we can easily find the manipulated part of the image.
 
  
-Block Diagram/Work Flow Diagram
+<b>Block Diagram/Work Flow Diagram</b>
 
 ![](Images/Block_Diagram.jpg)
  
-Steps:
+<b>Steps:</b>
+
 (1)	Install all the required software (Numpy, Pillow, OpenCV, OS)
 
 (2)	Convert all the images which are present in Data Set into Grayscale images.
@@ -51,31 +52,31 @@ Steps:
 
 (8)	After Level 1 the Algorithm takes care of Level 2 Testing (ELA and Histogram Method) with reference to the "Training.yml".
 
-Output Screenshots:
+<b>Output Screenshots:</b>
 
-Opening the Fake image
+<b>Opening the Fake image</b>
 
 ![](Images/Open_File.png)
  
-Level 1 Testing for Fake Image
+<b>Level 1 Testing for Fake Image</b>
 
 ![](Images/Fake_Level1.png)
  
-Level 2 Testing for Fake Image
+<b>Level 2 Testing for Fake Image</b>
 
 ![](Images/Fake_Level2.png)
  
 Here the uploaded Image is Fake and the accuracy is nearly 88%
 
-Opening the Real Image
+<b>Opening the Real Image</b>
 
 ![](Images/Open_File.png)
  
-Level 1 Testing for Real Image
+<b>Level 1 Testing for Real Image</b>
 
 ![](Images/Real_Level1.png)
  
-Level 2 Testing for Real Image
+<b>Level 2 Testing for Real Image</b>
 
 ![](Images/Real_Level2.png)
  
